@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Sejam bem-vindos ao meu perfil no GitHub👋
 
 <!--
 **JoaoAlfreedo/JoaoAlfreedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
