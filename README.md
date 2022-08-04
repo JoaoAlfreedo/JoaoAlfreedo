@@ -1,10 +1,12 @@
 <div align="center">
     <h2> 💻 Olá! Sejam bem-vindos ao meu perfil no GitHub 💻</h2>
     <p>Uma pessoa apaixonada por tecnologia, tecnologo em redes de computadores e um analista de segurança em formação. </p>
-    </br>
+    </div>
+<div align="center">
     <h3> Sobre mim </h3>
     <p>💼 Analista de Segurança | CSIRT | Blue Team | SOC</p>
     <p>❤️ Paixão por novas tecnologias</p>
+        <h3> Tecnologias | Ferramentas </h3>
     </div>
     </br >
     <div align="center">
